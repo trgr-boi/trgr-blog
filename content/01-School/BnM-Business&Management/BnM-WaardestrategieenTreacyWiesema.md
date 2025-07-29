@@ -3,7 +3,7 @@ tags:
   - school
   - BnM
 reference: "[[BnM-H06-Strategiekeuze]]"
-title: BnM-WaardestrategieënTreacyWiesema
+title: BnM-WaardestrategieenTreacyWiesema
 aliases:
   - Waardestrategieën van Treacy & Wiesema
   - Waardestrategieën
@@ -18,7 +18,7 @@ aliases:
 - hoe [[BnM-Meso-omgeving|concurrentie]] overtreffen & concurrentievoordeel behalen
 - 3 categoriën
 
-![[BnM-WaardestrategiënTreacyWiesema.png]]
+![[BnM-WaardestrategienTreacyWiesema.png]]
 
 ## Categoriën
 

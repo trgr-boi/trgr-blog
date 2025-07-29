@@ -3,7 +3,7 @@ tags:
   - school
   - BnM
 reference: "[[BnM-H06-Strategiekeuze]]"
-title: BnM-GroeistrategieënAnsoff
+title: BnM-GroeistrategieenAnsoff
 aliases:
   - marktpenetratie
   - marktontwikkeling
@@ -19,7 +19,7 @@ aliases:
 - helpt nieuwe manieren zoeken om winst/[[omzet]] te verhogen
 	- door nieuwe klanten te maken
 
-![[BnM-GroeistrategiënAnsoff.png]]
+![[BnM-GroeistrategienAnsoff.png]]
 
 ## Onderdelen
 

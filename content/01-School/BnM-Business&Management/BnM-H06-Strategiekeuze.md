@@ -23,13 +23,13 @@ aliases:
 
 ![[BnM-Missie#Overzicht]]
 
-## [[BnM-GroeistrategieënAnsoff|GroeistrategieënAnsoff]]
+## [[BnM-GroeistrategieenAnsoff|GroeistrategieënAnsoff]]
 
-![[BnM-GroeistrategieënAnsoff#Overzicht]]
+![[BnM-GroeistrategieenAnsoff#Overzicht]]
 
-## [[BnM-WaardestrategieënTreacyWiesema|Waardestrategiën van Treacy & Wiesema]]
+## [[BnM-WaardestrategieenTreacyWiesema|Waardestrategiën van Treacy & Wiesema]]
 
-![[BnM-WaardestrategieënTreacyWiesema#Overzicht]]
+![[BnM-WaardestrategieenTreacyWiesema#Overzicht]]
 
 ## [[DnM-StrategieEvalueren|Strategie Evalueren]]
 

@@ -18,7 +18,7 @@ aliases:
 - Herhalend proces
 - Bevat bouwstenen die helpen om dit doel (continuïteit) te realiseren
 
-![[BnM-continuïteitskring.png]]
+![[BnM-continuiteitskring.png]]
 
 ## Onderdelen
 ### **Producten**

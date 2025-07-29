@@ -16,6 +16,7 @@ semester: "[[MOC-J1-SEM2]]"
 
 ## Inhoud
 
+- [[BnM-H00-Inleiding|H00 - Inleiding]]
 - [[BnM-H01-ContinuiteitEnWaardeCreatie|H01 - Continuïteit en Waarde Creatie]]
 	- [[BnM-H01-ContinuiteitEnWaardeCreatie#Business|Business]]
 		- [[BnM-H01-ContinuiteitEnWaardeCreatie#Definitie|Definitie]]
@@ -46,9 +47,9 @@ semester: "[[MOC-J1-SEM2]]"
 	- [[BnM-Confrontatiematrix|Confrontatiematrix]]
 - [[BnM-H06-Strategiekeuze|H06 - Strategiekeuze]]
 	- [[BnM-Missie|Missie]]
-	- [[BnM-GroeistrategieënAnsoff|Groeistrategieën van Ansoff]]
-	- [[BnM-WaardestrategieënTreacyWiesema|Waardestrategieën van Treacy & Wiesema]]
-	- [[DnM-StrategieEvalueren|Strategie Evalueren]]
+	- [[BnM-GroeistrategieenAnsoff|Groeistrategieën van Ansoff]]
+	- [[BnM-WaardestrategieenTreacyWiesema|Waardestrategieën van Treacy & Wiesema]]
+	- [[BnM-StrategieEvalueren|Strategie Evalueren]]
 - [[BnM-H07-Waardeaanbod|H07 - Waardeaanbod]]
 	- [[BnM-JustInTime(JIT)|Just in Time (JIT)]]
 	- [[BnM-ProductiePlanning|Productie Planning]]

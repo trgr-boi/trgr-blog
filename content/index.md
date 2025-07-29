@@ -9,5 +9,9 @@ Most of my topic processing is in dutch since it is my primary language. Just tr
 
 # Table of Contents
 
-- [[OS-Operating Systems.md|Operating Systems]]
-- [[BnM-Business & Management.md|Business & Management]]
+- School
+	- [[BnM-Business & Management.md|Business & Management]]
+	- [[Cybersecurity]]
+	- [[Databases-1|Databases]]
+	- [[OS-Operating Systems.md|Operating Systems]]
+

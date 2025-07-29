@@ -57,7 +57,7 @@ reference: "[[BnM-Business & Management]]"
 
 ### Management process
 
-![[BnM-H01-ContinuïteitEnWaardeCreatie.png]]
+![[BnM-H01-ContinuiteitEnWaardeCreatie.png]]
 
 ### Voordelen management
 
