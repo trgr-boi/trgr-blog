@@ -1,11 +1,11 @@
 ---
-title: Welcome to TRGR-notes2
+title: Welcome to TRGR-notes
 ---
 
 # Welcome
 
 Dumb welcome message.  
-Most of my topic processing is in dutch since my primary language is dutch. Just translate it with a build-in browser translater and hope that it works well.
+Most of my topic processing is in dutch since it is my primary language. Just translate it with a build-in browser translater and hope that it works well.
 
 # Table of Contents
 
