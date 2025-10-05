@@ -2,6 +2,10 @@
 2025-01-22 - 22:06
 Tags: [[Cybersecurity]]
 ***
+
+> [!important] AI gegenereerd!
+> Check of dit volledig klopt.
+
 ## 2.1 Ethiek en cyberwetten
 
 - Is het ethisch om ...

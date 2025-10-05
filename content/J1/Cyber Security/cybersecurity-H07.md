@@ -2,6 +2,10 @@
 2025-01-22 - 22:10
 Tags: [[Cybersecurity]]
 ***
+
+> [!important] AI gegenereerd!
+> Check of dit volledig klopt.
+
 ## 7.1 Waarom certificaten nodig?
 
 - Problemen met symmetrische encryptie: fysieke sleuteloverdracht is vereist

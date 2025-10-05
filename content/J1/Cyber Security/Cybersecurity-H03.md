@@ -2,6 +2,10 @@
 2025-01-22 - 22:08
 Tags: [[Cybersecurity]]
 ***
+
+> [!important] AI gegenereerd!
+> Check of dit volledig klopt.
+
 ## 3.1 Bedreigingen en aanvallen
 - Interne vs. externe aanvallen:
     - Interne aanvallen komen van binnen de organisatie (medewerkers, contractpartners)

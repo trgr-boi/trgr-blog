@@ -2,6 +2,10 @@
 2025-01-22 - 22:10
 Tags: [[Cybersecurity]]
 ***
+
+> [!important] AI gegenereerd!
+> Check of dit volledig klopt.
+
 ## 6.1 Onvoorziene problemen
 
 - Disaster Recovery Planning is essentieel om een organisatie draaiende te houden tijdens rampen

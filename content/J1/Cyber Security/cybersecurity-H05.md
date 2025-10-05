@@ -2,6 +2,10 @@
 2025-01-22 - 22:09
 Tags: [[Cybersecurity]]
 ***
+
+> [!important] AI gegenereerd!
+> Check of dit volledig klopt.
+
 ## 5.1 Digitale Handtekeningen
 - Digitale handtekeningen kunnen aan bestanden worden toegevoegd (bijv. PDF) om integriteit te waarborgen
 - Verifieert twee aspecten:

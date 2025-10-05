@@ -2,6 +2,9 @@
 2025-01-22 - 22:03
 Tags: [[Cybersecurity]]
 ***
+
+> [!important] AI gegenereerd!
+> Check of dit volledig klopt.
 ## 1.1 Data, het virtuele goud
 
 - Data wordt tegenwoordig beschouwd als het **virtuele goud** en is net zo waardevol als goud ooit was. Het wordt gestolen, misbruikt en gehackt door zowel bedrijven als individuen.

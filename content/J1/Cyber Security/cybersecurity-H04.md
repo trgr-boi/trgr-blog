@@ -2,6 +2,10 @@
 2025-01-22 - 22:08
 Tags: [[Cybersecurity]]
 ***
+
+> [!important] AI gegenereerd!
+> Check of dit volledig klopt.
+
 ## 4.1 Cryptografie
 ### Kernconcepten
 - Cryptografie is een manier om gegevens op te slaan en te verzenden zodat alleen beoogde ontvangers deze kunnen lezen
