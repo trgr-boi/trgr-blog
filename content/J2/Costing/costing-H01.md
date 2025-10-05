@@ -9,8 +9,9 @@ related notes:
 ---
 
 > [!definition] Balans vs. resultrekening
-> Balans = momentopname van een bedrijf
+> Balans = momentopname van een bedrijf  
 > Resultrekening = over een langere berekening van een bedrijf
+
 - toont wat je hebt en hoe deze gefinancieërd zijn
 - moet 1x per jaar op een vaste datum gebeuren
 - wordt weergegeven in een T-weergave

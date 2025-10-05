@@ -1,5 +1,5 @@
 ---
-title: Welcome to TRGR-notes
+title: Welcome to trgr school notes
 ---
 
 # Welcome
