@@ -14,6 +14,10 @@ studiepunten: 3
 ---
 # Costing
 
+## Inhoud
+
+- [[costing-H01|H01 - Balans]]
+
 ## Doelstellingen
 
 **De student kan complexe IT-behoeften en vragen kritisch analyseren, gestructureerd weergeven en adequaat adviseren over een oplossing op maat van de organisatie en de impact ervan.**
@@ -23,14 +27,7 @@ studiepunten: 3
 - Kan investeringen beoordelen onder andere aan de hand van cashflowberekening.
 - Kan op basis van een financiële situatie de ratio's liquiditeit, solvabiliteit en rentabiliteit opstellen, uitleggen en berekenen.
 - Kan de financiële berekeningen overzichtelijk rapporteren en toelichten.
-## Inhoud
 
-- Basisbegrippen financieel management  
-- Basisbegrippen management accounting  
-- Bedrijfseconomische analyse  
-- Investeringsvraagstukken
-
-- [[costing-H01|H01 - Balans]]
 ## Evaluatie
 
 Evaluatie(s) voor de eerste examenkans

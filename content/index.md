@@ -11,7 +11,9 @@ Niet voor al de vakken, enkel voor die waar ik vond dat dit nodig was.
 # Table of Contents
 
 - 1ste jaar
-  - [[BnM-Business & Management.md|Business & Management]]
-  - [[Cybersecurity]]
-  - [[Databases-1|Databases]]
-  - [[OS-Operating Systems.md|Operating Systems]]
+	- [[BnM-Business & Management.md|Business & Management]]
+	- [[Cybersecurity]]
+	- [[Databases-1|Databases]]
+	- [[OS-Operating Systems.md|Operating Systems]]
+- 2de jaar
+	- [[costing|Costing]]
