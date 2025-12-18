@@ -1,1 +1,0 @@
-**Geen overzicht** van alle VM's wat kan leiden naar **verlies van efficiëntie**
