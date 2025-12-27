@@ -1,6 +1,8 @@
 ---
-title: Why I homelab
+title: Why I Homelab
 date: 2025-12-21
+tags:
+  - homelab
 ---
 Hi,  
 Trgr here!  
