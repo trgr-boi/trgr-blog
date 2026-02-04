@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
     afterBody: [],
     footer: Component.Footer({
         links: {
-            "/trgr.site/": "https://www.trgrboi.be/",
+            "/trgrboi.be/": "https://www.trgrboi.be/",
             "/personal-notes/": "https://notes.trgrboi.be",
             // "/subliminal.os/": "https://subliminal.trgr.site/",
         },
